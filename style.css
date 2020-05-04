@@ -6,7 +6,7 @@ body {
     background-size: cover;
     padding: 100px;
     font-family: 'Open Sans', sans-serif;
-    color: rgb(42, 105, 96);
+    color: rgb(255, 255, 255);
     display: grid;
     align-items: center;
     grid-template-columns: 300px auto;
@@ -70,7 +70,7 @@ li {
 }
 
 a {
-    color: rgb(52, 116, 148);
+    color: rgb(255, 255, 255);
     display: inline-block;
     overflow: hidden;
     position: relative;
