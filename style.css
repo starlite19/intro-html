@@ -6,7 +6,7 @@ body {
     background-size: cover;
     padding: 100px;
     font-family: 'Open Sans', sans-serif;
-    color: #000;
+    color: rgb(99, 148, 141);
     display: grid;
     align-items: center;
     grid-template-columns: 300px auto;
@@ -14,7 +14,7 @@ body {
 }
 
 body:after {
-    content: "Thanks to UIHere (background image)";
+    content: "";
     position: fixed;
     left: 0;
     bottom: 0;
@@ -32,7 +32,7 @@ h1 {
     font-size: 48pt;
     font-family: 'Playfair Display', sans-serif;
   
-    background-image: linear-gradient(90deg, rgba(113,204,180,1) 0%, rgba(70,70,162,1) 72%, rgba(46,41,163,1) 100%);
+    background-image: linear-gradient(90deg, rgba(140,187,181,1) 0%, rgba(52,135,122,1) 74%, rgba(47,31,103,1) 100%);
     background-repeat: no-repeat;
     background-size: 100% 0.2em;
     background-position: 0 100%;
@@ -70,7 +70,7 @@ li {
 }
 
 a {
-    color: rgb(90, 176, 219);
+    color: rgb(67, 135, 168);
     display: inline-block;
     overflow: hidden;
     position: relative;
